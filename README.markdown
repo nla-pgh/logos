@@ -17,4 +17,4 @@ alt="Ubuntu Fonts at Google Web Fonts">Ubuntu, sans-serif</a> </dd>
 </dl>
 
 ## Copyright ##
-&copy Neighborhood Learning Alliance 2012
+&copy; Neighborhood Learning Alliance 2012
